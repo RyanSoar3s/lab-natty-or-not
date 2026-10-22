@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Manual Natty de Pokémon FireRed: Sobrevivendo a Kanto na Era das IAs
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O Manual Natty de Pokémon FireRed é um guia prático e descontraído voltado para jogadores iniciantes de Pokémon FireRed, acompanhando os primeiros passos da jornada pela região de Kanto, desde a escolha do Pokémon inicial em Pallet Town até a batalha contra Misty, líder do ginásio de Cerulean City. O projeto tem como objetivo ajudar novos treinadores a compreender as mecânicas básicas do jogo, explorar as primeiras rotas, capturar e treinar Pokémon e superar os desafios iniciais sem depender de pesquisas externas ou de tentativa e erro constante.
+
+Com uma linguagem informal, bem-humorada e acessível, o manual combina orientações estratégicas, dicas de treinamento, sugestões de composição de equipe e explicações sobre vantagens de tipos e batalhas importantes. O conteúdo também destaca dificuldades comuns da progressão, como o treinamento necessário para derrotar Brock, a fragilidade de Butterfree em determinadas batalhas, os encontros frequentes com Zubat na Mt. Moon e os desafios apresentados por Starmie, o Pokémon mais perigoso da equipe de Misty.
+
+Além de funcionar como um roteiro de progressão, o projeto busca tornar a experiência mais divertida e envolvente por meio de comentários humorísticos, referências a situações típicas do jogo, imagens ilustrativas e listas de verificação que permitem acompanhar o avanço da aventura. A proposta é oferecer um material de consulta simples e organizado, preservando o espírito de exploração e descoberta de Pokémon FireRed enquanto ajuda o jogador a tomar decisões mais conscientes durante sua jornada.
+
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Instrui o "ChatGPT" a agir como um jogador experiente em Pokémon FireRed e criar um guia de forma descontraída para iniciantes. Pedi para usar um tom informal e descrever os perrengues na jornada do início até o ginásio da Misty.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O guia apresenta um conteúdo objetivo, bem-humorado e fácil de entender, cobrindo desde a escolha do Pokémon inicial até a batalha contra Misty. Ele combina informações úteis com dicas práticas, tornando a jornada mais tranquila e divertida para os jogadores.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+[📖 Acesse o Manual Natty de Pokémon FireRed aqui](GUIA_FIRERED.md)
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Foi extremamente fácil para a IA entender o que eu queria e gerar um conteúdo de qualidade. O resultado foi um guia completo e bem-humorado que me ajudou a avançar na jornada de Pokémon FireRed sem depender de pesquisas externas.
